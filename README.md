@@ -1,6 +1,10 @@
 ## Hi there 👋
 - 🌱 I’m currently learning Full Stack Web Development at Scrimba [December 2025] 
-### Past Projects 
+### Past Projects: 
+- Scuba Diving Academy Website: A realistic scuba diving academy website prototype for Minicoy, Lakshadweep — built as part of my full stack web development learning journey. 
+   - Github: https://github.com/naomansaeed/scuba_diving_website
+   - Netlify: https://luccadive-scuba.netlify.app/
+- Crime reporting Sytem: An acedemic project submitted at the end of 4 year BSIT course. It involved building a backend using php and mysql for digitizing the crime reports in Punjab, Pakistan. Most of the programming was done by myself. I had to study the existing analogue system and design database, server side logic and the frontend forms accordingly.
 - Scuba Diving Game in Godot Studio: I made the whole thing by myself for the first time. It wasn't something thought in a tutorial. It was inspired from a flash game I remebered from childhood from a kids website. I had to figure out the logic of how to make stuff work the way I wanted. hardest part was the dynamic generation of terrain. 
 <!--
 **naomansaeed/naomansaeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
