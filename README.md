@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🌱 I’m currently learning Full Stack Web Development at Scrimba [December 2025] 
+### Past Projects 
+- Scuba Diving Game in Godot Studio: I made the whole thing by myself for the first time. It wasn't something thought in a tutorial. It was inspired from a flash game I remebered from childhood from a kids website. I had to figure out the logic of how to make stuff work the way I wanted. hardest part was the dynamic generation of terrain. 
 <!--
 **naomansaeed/naomansaeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
