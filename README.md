@@ -1,11 +1,20 @@
 ## Hi there 👋
 - 🌱 I’m currently learning Full Stack Web Development at Scrimba [December 2025] 
 ### Past Projects: 
-- Scuba Diving Academy Website: A realistic scuba diving academy website prototype for Minicoy, Lakshadweep — built as part of my full stack web development learning journey. 
+- **Random Password Generator**  
+  A secure, feature-rich password tool with length control, character toggles, light/dark mode, and copy-to-clipboard — built with vanilla HTML, CSS, and JavaScript.  
+  - GitHub: https://github.com/naomansaeed/random-password-generator  
+  - Live: https://random-password-generator-dark.netlify.app  
+- **Scuba Diving Academy Website**  
+  A realistic prototype for a diving center in Minicoy, Lakshadweep, blending local ecology and dive tourism. Built during Scrimba’s frontend curriculum.  
    - Github: https://github.com/naomansaeed/scuba_diving_website
    - Netlify: https://luccadive-scuba.netlify.app/
-- Crime reporting Sytem: An acedemic project submitted at the end of 4 year BSIT course. It involved building a backend using php and mysql for digitizing the crime reports in Punjab, Pakistan. Most of the programming was done by myself. I had to study the existing analogue system and design database, server side logic and the frontend forms accordingly.
-- Scuba Diving Game in Godot Studio: I made the whole thing by myself for the first time. It wasn't something thought in a tutorial. It was inspired from a flash game I remebered from childhood from a kids website. I had to figure out the logic of how to make stuff work the way I wanted. hardest part was the dynamic generation of terrain. 
+### Academic Projects
+- **Crime Reporting System**  
+  A full-stack PHP/MySQL application designed to digitize crime reporting workflows in Punjab, Pakistan. I analyzed the analog system, designed the database schema, and implemented server logic and frontend forms independently as part of my BSIT capstone.
+
+- **Scuba Diving Game in Godot Studio:**
+  I made the whole thing by myself for the first time. It wasn't something thought in a tutorial. It was inspired from a flash game I remebered from childhood from a kids website. I had to figure out the logic of how to make stuff work the way I wanted. hardest part was the dynamic generation of terrain. 
 <!--
 **naomansaeed/naomansaeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
