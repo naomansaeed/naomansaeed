@@ -1,5 +1,7 @@
 ## Hi there 👋
 - 🌱 I’m currently learning Full Stack Web Development at Scrimba [January 2026] 
+- 🛠️ Tech Stack: HTML/CSS/JS | PHP/MySQL
+- 📈 Currently focused on: Responsive UIs, DOM manipulation, and state management
 ### Past Projects: 
 - **Random Password Generator**  
   A secure, feature-rich password tool with length control, character toggles, light/dark mode, and copy-to-clipboard — built with vanilla HTML, CSS, and JavaScript.  
