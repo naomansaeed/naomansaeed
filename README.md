@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🌱 I’m currently learning Full Stack Web Development at Scrimba [December 2025] 
+- 🌱 I’m currently learning Full Stack Web Development at Scrimba [January 2026] 
 ### Past Projects: 
 - **Random Password Generator**  
   A secure, feature-rich password tool with length control, character toggles, light/dark mode, and copy-to-clipboard — built with vanilla HTML, CSS, and JavaScript.  
