@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Naoman — Full-Stack Web Developer
 
 🌱 Building accessible, production-ready web apps with React, Node.js & vanilla JS  
-🛠️ Tech: HTML5 • CSS3 (Flexbox/Grid) • JavaScript (ES6+/Async) • React • Express • PHP/MySQL  
+🛠️ Tech: HTML5 • CSS3 (Flexbox/Grid) • JavaScript (ES6+/Async) • React • Express • PHP/MySQL • Git/Netlify
 ♿ Passionate about WCAG-compliant, semantic, mobile-first development
 
 ### 🚀 Featured Projects
@@ -9,6 +9,7 @@
 |---------|------|------|
 | 🔐 Random Password Generator | Vanilla JS | [Live Demo](https://random-password-generator-dark.netlify.app) |
 | 🤿 Scuba Diving Academy Site | HTML/CSS/JS | [Live Demo](https://luccadive-scuba.netlify.app) |
+| 🌲 Pine Hollow Provisions Site | HTML/CSS | [Live Demo](https://pine-hollow-provisions.netlify.app) |
 
 
 ### 📈 Learning in Public
@@ -18,8 +19,8 @@ Currently mastering: async patterns, REST APIs, and accessible component design.
 📩 Let's build something great → [Contact me on my website](https://trogdyne.com/contact/)
 <!--
 ## Hi there 👋
-- 🌱 I’m currently learning Full Stack Web Development at Scrimba [January 2026] 
-- 🛠️ Tech Stack: HTML/CSS/JS | PHP/MySQL
+- 🌱 I’m currently learning Full Stack Web Development [June 2026] 
+- 🛠️ Tech Stack: HTML/CSS/JS | PHP/MySQL | Git/Netlify
 - 📈 Currently focused on: Responsive UIs, DOM manipulation, and state management
 ### Past Projects: 
 - **Random Password Generator**  
